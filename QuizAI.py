@@ -2,6 +2,8 @@
 Advanced Self-Learning LLM with GUI
 Intelligent responses, word embeddings, and knowledge integration
 
+In Memory of Aaron Swartz, who wanted fair, free information for the world
+
 Requirements:
 pip install numpy requests tkinter
 """
